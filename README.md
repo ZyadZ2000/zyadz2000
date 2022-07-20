@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadz2000&label=Profile%20views&color=0e75b6&style=flat" alt="zyadz2000" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zyad" target="blank"><img src="https://img.shields.io/twitter/follow/zyad?logo=twitter&style=for-the-badge" alt="zyad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zyad10849945" target="blank"><img src="https://img.shields.io/twitter/follow/zyad10849945?logo=twitter&style=for-the-badge" alt="zyad10849945" /></a> </p>
 
 - 🌱 I’m currently learning **React ,TypeScript, Node.js**
 
