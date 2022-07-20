@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm zyad.</h1>
-<h3 align="center">Mainly a Web Front-end developer, also skilled in Java, C/C++ along with basics of Back-end development</h3>
+<h3 align="center">A Web Front-end developer, also skilled in Java, C/C++ along with basics of Back-end development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadz2000&label=Profile%20views&color=0e75b6&style=flat" alt="zyadz2000" /> </p>
 
